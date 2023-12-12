@@ -1,0 +1,4 @@
+/data/coco/train/*
+/data/coco/valid/*
+/data/coco/annotations/train.json
+/data/pistol
